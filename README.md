@@ -1,4 +1,5 @@
 # basic_ui
+![Screenshot_1681260139](https://user-images.githubusercontent.com/103268709/231318904-e081ac5f-d7a9-4de0-a015-e38394d19cdc.png)
 
 A new Flutter project.
 
